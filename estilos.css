@@ -1,0 +1,33 @@
+body{
+    margin: 0px ;
+    font-family: monospace;
+    background-color: white;
+}
+
+
+.header {
+    background-color: black ;
+    width: 100%;
+    margin: 0px;
+    border-bottom: 3px rgb(67, 197, 169) solid;
+}
+
+h1{
+    margin: 0px;
+    color: rgb(26, 204, 165);
+}
+
+.header .container {
+    width: 70%;
+    display: flex;
+    
+}
+
+.navbar{
+width: 500px;
+list-style: none;
+align-items: center;
+display: flex;
+justify-content: space-between;
+color: orange;
+}
